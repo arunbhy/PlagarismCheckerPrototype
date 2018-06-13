@@ -1,0 +1,1 @@
+(S the/DT littles/JJ yellow/JJ)
